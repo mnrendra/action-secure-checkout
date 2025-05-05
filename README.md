@@ -157,16 +157,16 @@ This checks out the repository using `actions/checkout` with `persist-credential
 
 We take security seriously in this project. If you discover a **vulnerability**, we strongly encourage you to report it in a responsible manner.
 
-Please open a [Security Advisory](/security/advisories/new) to report any vulnerabilities.
+Please open a [Security Advisory](https://github.com/mnrendra/action-secure-checkout/security/advisories/new) to report any vulnerabilities.
 
-For more information, please refer to our [Security Policy](/blob/HEAD/SECURITY.md).
+For more information, please refer to our [Security Policy](https://github.com/mnrendra/action-secure-checkout/blob/HEAD/SECURITY.md).
 
 ## Contributing
 
-We appreciate your help in making this project better. Please follow the [guidelines](/blob/HEAD/CONTRIBUTING.md) to ensure that your contributions are smoothly integrated.
+We appreciate your help in making this project better. Please follow the [guidelines](https://github.com/mnrendra/action-secure-checkout/blob/HEAD/CONTRIBUTING.md) to ensure that your contributions are smoothly integrated.
 
 ## License
-[MIT](/blob/HEAD/LICENSE)
+[MIT](https://github.com/mnrendra/action-secure-checkout/blob/HEAD/LICENSE)
 
 ## Author
 [@mnrendra](https://github.com/mnrendra)
